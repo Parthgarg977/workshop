@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+TicTaeToeGame g1 = new TicTaeToeGame();
+g1.TicTaeToeGame_m1();
